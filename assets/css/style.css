@@ -1802,3 +1802,12 @@ section {
 /* .marg-left{
 	margin-left: 100px;
 } */
+
+.feedback-button{
+  background: #d3af71;
+  color: white;
+  transition: 0.3s;
+  border-radius: 50px;
+  padding: 5px 20px 5px 20px;
+  font-size: 16px;
+}
